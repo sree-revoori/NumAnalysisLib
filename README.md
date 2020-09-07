@@ -6,3 +6,11 @@ A Numerical Analysis Library in Julia which implements algorithms for:
   - Vandermonde Matrices
   - B-Splines
   - Orthogonal Polynomials
+- Numerical Differentiation
+- Numerical Integration
+- Root-Finding
+- Partial Differential Equation (PDE) Solver
+  - Finite Difference Method
+  - Finite Element Method
+  - Machine Learning Methods
+- Integral Transforms
