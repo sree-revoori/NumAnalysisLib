@@ -7,7 +7,11 @@ A Numerical Analysis Library in Julia which implements algorithms for:
   - B-Splines
   - Orthogonal Polynomials
 - Numerical Differentiation
-- Numerical Integration
+- Integration
+  - Numerical
+    - Monte Carlo Methods
+    - Quadrature
+  - Risch Algorithm
 - Root-Finding
 - Partial Differential Equation (PDE) Solver
   - Finite Difference Method
