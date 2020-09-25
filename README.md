@@ -19,4 +19,4 @@ A Numerical Analysis Library in Julia which implements algorithms for:
   - Machine Learning Methods
 - Integral Transforms
 
-Motivation for the project: As a programmer with proficiency in python, 
+Motivation for the project: As a programmer with proficiency in python, I loved how powerful the language was while remaining simple and easy to understand.  
