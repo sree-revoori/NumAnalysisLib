@@ -19,4 +19,4 @@ A Numerical Analysis Library in Julia which implements algorithms for:
   - Machine Learning Methods
 - Integral Transforms
 
-Motivation for the project: As a programmer with proficiency in python, I loved how powerful the language was while remaining simple and easy to understand. However, my biggest qualm with python was the time it took to ran programs - it is almost 20 times as slow as Java. 
+Motivation for the project: As a programmer with proficiency in python, I loved how powerful the language was while remaining simple and easy to understand. However, my biggest qualm with python was the time it took to ran programs - it is almost 20 times as slow as Java. Imagine my ecstacy when I found a language - Julia - that was both high-level and fast at processing code. The only problem I have encountered in my two years
