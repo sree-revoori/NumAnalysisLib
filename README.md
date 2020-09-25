@@ -18,3 +18,5 @@ A Numerical Analysis Library in Julia which implements algorithms for:
   - Finite Element Method
   - Machine Learning Methods
 - Integral Transforms
+
+Motivation for the project: 
